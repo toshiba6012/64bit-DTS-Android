@@ -7,4 +7,5 @@ I made 64bit audio with 3999kbs. The reason why they haven't come out with it ye
 
 Best regards
 Ryan Johnson
-[64bit DTS Android.zip](https://github.com/toshiba6012/64bit-DTS-Android/files/8227594/64bit.DTS.Android.zip)
+
+[64bit DTS 3999kbs Android.zip](https://github.com/toshiba6012/64bit-DTS-Android/files/8227785/64bit.DTS.3999kbs.Android.zip)
