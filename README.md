@@ -11,3 +11,4 @@ Ryan Johnson
 [64bit DTS 3999kbs Android.zip](https://github.com/toshiba6012/64bit-DTS-Android/files/8227785/64bit.DTS.3999kbs.Android.zip)
 ![2022-03-10_16-10](https://user-images.githubusercontent.com/51103416/157776732-4e9480e9-837c-405e-b204-8af74ea96597.png)
 ![Screenshot_2022-03-10_161256](https://user-images.githubusercontent.com/51103416/157777024-d6382ca1-430f-4b6f-85c4-8069f0033922.jpg)
+![2022-03-10_16-10](https://user-images.githubusercontent.com/51103416/157778345-99e906bd-8e02-4811-a1b8-1fc4ad98d934.png)
