@@ -14,5 +14,6 @@ Ryan Johnson
 ![2022-03-10_16-28](https://user-images.githubusercontent.com/51103416/157778438-f7a97833-15e3-487b-ad0b-29e9e09d2e51.png)
 ![2022-03-10_16-32](https://user-images.githubusercontent.com/51103416/157778778-96f0c784-2f85-4f44-947c-2a3079c63292.png)
 ![2022-03-10_16-33](https://user-images.githubusercontent.com/51103416/157778783-a1d1c759-3c2e-4158-8972-ff42d35ca583.png)
+![2022-03-10_16-42](https://user-images.githubusercontent.com/51103416/157854772-15039328-57e4-476e-ab7c-cae78121673b.png)
 
 [64bit DTS 6144kbs Android.zip](https://github.com/toshiba6012/64bit-DTS-Android/files/8230032/64bit.DTS.6144kbs.Android.zip)
